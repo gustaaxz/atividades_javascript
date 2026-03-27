@@ -1,4 +1,8 @@
-# Lista de Exercícios 01
+# Lista de Exercícios Completa!
+
+---
+
+## Lista de Exercícios 01
 
 **1** - Verificar se um número é positivo, negativo ou zero.
 
@@ -67,5 +71,3 @@
 ---
 
 **14** - Declare uma variável com um texto, por exemplo, "JavaScript". Exiba no console o texto invertido ("tpircSavaJ").
-
-# Lista Completa!
