@@ -9,9 +9,8 @@ function contarVogais(str) {
             contador++;
         }
     }
-    
     return contador;
 }
 
-let texto = "Exemplo de uma string qualquer";
+let texto = "Esta é uma frase de exemplo. lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
 console.log(contarVogais(texto));

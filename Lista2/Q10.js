@@ -8,5 +8,5 @@ function criarArray(num) {
     return resultado;
 }
 
-let numero = 5;
+let numero = 10;
 console.log(criarArray(numero));
